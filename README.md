@@ -1,7 +1,7 @@
 # Currency Exchange Rate App
 
 This is a React application that fetches and displays currency exchange rates using the Free Currency API. It utilizes Vite for project setup, Tailwind CSS for styling, and the Free Currency API for fetching current exchange rates.
-
+Live Link : https://currency-converter-henna-tau.vercel.app/
 ## Features
 
 - Displays currency exchange rates for various currencies relative to a base currency.
